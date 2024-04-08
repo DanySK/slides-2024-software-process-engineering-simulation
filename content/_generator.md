@@ -1,8 +1,8 @@
 
 +++
 
-title = "Guide for writing markdown slides"
-description = "A Hugo theme for creating Reveal.js presentations"
+title = "Simulation and software process engineering in pervasive computing"
+description = "Why we need simulation for developing pervasive systems, and how we do it."
 outputs = ["Reveal"]
 aliases = []
 

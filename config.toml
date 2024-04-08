@@ -1,6 +1,6 @@
-baseURL = "https://danysk.github.io/Template-Hugo-Reveal-Slides"
+baseURL = "https://danysk.github.io/slides-2024-software-process-engineering-simulation"
 languageCode = "en-us"
-title = "A Hugo theme for creating Reveal.js presentations"
+title = "Simulation and software process engineering in pervasive computing"
 disableKinds = ["sitemap", "RSS"]
 theme = "reveal-hugo"
 publishDir = "build"
