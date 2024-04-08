@@ -4,14 +4,14 @@
 title = "Guide for writing markdown slides"
 description = "A Hugo theme for creating Reveal.js presentations"
 outputs = ["Reveal"]
-aliases = [
-    "/guide/"
-]
+aliases = []
 
 +++
 
 
-# Short guide to Markdown slides
+# Simulation and software process engineering in pervasive computing
+
+[Danilo Pianini](mailto:danilo.pianini@unibo.it) -- {{% today %}}
 
 ---
 
